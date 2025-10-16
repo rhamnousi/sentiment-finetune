@@ -29,11 +29,11 @@ This project uses the **[Social Media Sentiments Analysis Dataset](https://www.k
 2. Rename the file to:
 sentimentdataset.csv
 3. Place it in the `data/` directory:
+```
 sentiment-finetune/
 ├── data/
 │ └── sentimentdataset.csv
-
----
+```
 
 ## Installation
 
@@ -54,13 +54,13 @@ Optionally applies LoRA (Low-Rank Adaptation)
 Evaluates the model on test data
 
 Outputs metrics including Accuracy, F1, Precision, and Recall
-
+```
 Example Output:
 ===== Summary Table =====
            Method    Accuracy      F1    Precision   Recall
 Full Fine-Tuning     0.727        0.641    0.814      0.639
 LoRA                 0.409        0.194    0.136      0.333
-
+```
 All dependencies are listed in requirements.txt.
 Key packages include:
 
