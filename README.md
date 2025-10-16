@@ -40,10 +40,11 @@ sentiment-finetune/
 1. Clone the repository:
 git clone https://github.com/your-username/sentiment-finetune.git
 2. Run:
+```
 cd sentiment-finetune
 pip install -r requirements.txt
 python src/run.py
-
+```
 ## Model training process
 Loads and preprocesses the dataset
 
