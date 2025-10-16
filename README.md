@@ -7,15 +7,15 @@ It compares **full fine-tuning** and **parameter-efficient fine-tuning (LoRA)** 
 
 ## 📁 Repository Structure
 
-sentiment-finetune/
-├── src/
-│ ├── run.py # Main script to train and evaluate models
-│ └── utils.py # Data loading, preprocessing, and metrics
-├── data/
-│ └── README.txt # Placeholder (dataset should be downloaded separately)
-├── requirements.txt
-├── README.md
-└── .gitignore
+#sentiment-finetune/
+#├── src/
+#│ ├── run.py # Main script to train and evaluate models
+#│ └── utils.py # Data loading, preprocessing, and metrics
+#├── data/
+#│ └── README.txt # Placeholder (dataset should be downloaded separately)
+#├── requirements.txt
+#├── README.md
+#└── .gitignore
 
 
 ---
