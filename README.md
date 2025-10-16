@@ -5,22 +5,22 @@ It compares **full fine-tuning** and **parameter-efficient fine-tuning (LoRA)** 
 
 ---
 
-## 📁 Repository Structure
-
-#sentiment-finetune/
-#├── src/
-#│ ├── run.py # Main script to train and evaluate models
-#│ └── utils.py # Data loading, preprocessing, and metrics
-#├── data/
-#│ └── README.txt # Placeholder (dataset should be downloaded separately)
-#├── requirements.txt
-#├── README.md
-#└── .gitignore
-
+## Repository Structure
+```
+sentiment-finetune/
+├── src/
+│ ├── run.py # Main script to train and evaluate models
+│ └── utils.py # Data loading, preprocessing, and metrics
+├── data/
+│ └── README.txt # Placeholder (dataset should be downloaded separately)
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 
 ---
 
-## 🗂 Dataset
+## Dataset
 
 This project uses the **[Social Media Sentiments Analysis Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)** from Kaggle.
 
