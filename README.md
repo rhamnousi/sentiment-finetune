@@ -14,8 +14,7 @@ sentiment-finetune/
 ├── data/
 │ └── README.txt # Placeholder (dataset should be downloaded separately)
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
